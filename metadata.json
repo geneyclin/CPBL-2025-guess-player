@@ -1,0 +1,5 @@
+{
+  "name": "CPBL PR Guessing Game",
+  "description": "A game where you guess the CPBL player based on their 2024/2025 PR stats, powered by Rebas.tw data and Gemini.",
+  "requestFramePermissions": []
+}
